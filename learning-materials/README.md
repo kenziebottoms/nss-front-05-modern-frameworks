@@ -3,7 +3,7 @@
 ## Angular 101
 * [NSS Study Guide](MF_ANGULAR_101.md)
 * :white_check_mark: [Mushrooms](https://github.com/kenziebottoms/nss-front-05-mushrooms) :arrow_upper_right:
-* [Wide World Travel](MF_WIDE_WORLD_TRAVEL.md)
+* [Wide World Travel](https://github.com/kenziebottoms/nss-front-05-travel) :arrow_upper_right:
 
 ## AngularJS 102: Routes
 
@@ -11,8 +11,8 @@
 * [Routing](MF_ROUTE_ROUTING.md)
 * [Listing](MF_ROUTE_LISTING.md)
 * :white_check_mark: [Mushroom Factory](https://github.com/kenziebottoms/nss-front-05-mushrooms) :arrow_upper_right:
-* [Wide World Travel Factory](MF_WIDE_WORLD_TRAVEL_FACTORY.md)
-* [Wide World Travel Routing](MF_WIDE_WORLD_TRAVEL_ROUTING.md)
+* [Wide World Travel Factory](https://github.com/kenziebottoms/nss-front-05-travel) :arrow_upper_right:
+* [Wide World Travel Routing](https://github.com/kenziebottoms/nss-front-05-travel) :arrow_upper_right:
 
 
 ## AngularJS 103: Connecting with Firebase
