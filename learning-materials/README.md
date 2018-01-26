@@ -10,7 +10,7 @@
 * [NSS Study Guide](MF_ANGULAR_102.md)
 * [Routing](MF_ROUTE_ROUTING.md)
 * [Listing](MF_ROUTE_LISTING.md)
-* [Mushroom Factory](MF_MUSHROOM_FACTORY.md)
+* :white_check_mark: [Mushroom Factory](https://github.com/kenziebottoms/nss-front-05-mushrooms) :arrow_upper_right:
 * [Wide World Travel Factory](MF_WIDE_WORLD_TRAVEL_FACTORY.md)
 * [Wide World Travel Routing](MF_WIDE_WORLD_TRAVEL_ROUTING.md)
 
