@@ -8,8 +8,8 @@
 ## AngularJS 102: Routes
 
 * [NSS Study Guide](MF_ANGULAR_102.md)
-* [Routing](MF_ROUTE_ROUTING.md)
-* [Listing](MF_ROUTE_LISTING.md)
+* [Routing](https://github.com/kenziebottoms/nss-front-05-routing) :arrow_upper_right:
+* [Listing](https://github.com/kenziebottoms/nss-front-05-routing) :arrow_upper_right:
 * :white_check_mark: [Mushroom Factory](https://github.com/kenziebottoms/nss-front-05-mushrooms) :arrow_upper_right:
 * :white_check_mark: [Wide World Travel Factory](https://github.com/kenziebottoms/nss-front-05-travel) :arrow_upper_right:
 * :white_check_mark: [Wide World Travel Routing](https://github.com/kenziebottoms/nss-front-05-travel) :arrow_upper_right:
