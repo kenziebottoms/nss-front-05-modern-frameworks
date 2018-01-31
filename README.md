@@ -2,8 +2,8 @@
 
 A repo for notes and throwaway code associated with the front-end half of Nashville Software School, based on [this repo](https://github.com/nashville-software-school/front-end-milestones/tree/master/5-modern-frameworks).
 
-[Learning Materials](learning-materials)
-[Exercises](exercises)
+- [Learning Materials](learning-materials)
+- [Exercises](exercises)
 
 ---
 
