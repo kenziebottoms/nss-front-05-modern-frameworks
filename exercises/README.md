@@ -15,7 +15,7 @@
 
 ## AngularJS 103: Connecting with Firebase
 
-* [User Notes](MF_USER_NOTES.md)
+* [User Notes](https://github.com/kenziebottoms/nss-front-05-notes) :arrow_upper_right:
 
 ## AngularJS 105: Directives
 
